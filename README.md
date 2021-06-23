@@ -19,3 +19,11 @@
 2. Clone onto your local computer
 3. debug code or add features or anything you want to add
 4. Send the pull request
+
+## Developed by
+Jaspreet Singh - https://github.com/jaspreetsidhu3 
+
+
+### Contact me ?
+* LinkedIn - https://www.linkedin.com/in/jaspreetsidhu13/
+* EMail - jaspreetsidhu3may@gmail.com
