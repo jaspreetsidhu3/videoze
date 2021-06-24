@@ -8,9 +8,11 @@ Before watching web series on your local device have you ever wonder how much to
 
 ## Getting Started
 
-1. Fork this project into your github repo</br>
-2. Clone project into local computer</br>
-3. Start using it and Enjoy.
+1. Fork this project into your GitHub repo.
+2. Clone project into local computer.
+3. Open the dist folder in the Videoze project.
+4. Run the Videoze.exe
+5. Enjoy the application.
 
 
 ## Version
