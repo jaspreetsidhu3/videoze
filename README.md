@@ -2,6 +2,10 @@
   <img src="screenshot/Videoze1.png" width="100%" />
   </div>
 
+
+## About the Project 
+Before watching web series on your local device have you ever wonder how much total watch time it will take to watch every episode of the seasons. Here comes the Videoze that provides the total watch time to complete the web series for you.
+
 ## Getting Started
 
 1. Fork this project into your github repo</br>
